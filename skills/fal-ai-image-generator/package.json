@@ -1,0 +1,24 @@
+{
+  "name": "fal-ai-image-generator",
+  "version": "1.0.0",
+  "description": "Generate all 22 BioDockify blog images using fal.ai API with 1200x630 dimensions and square_hd quality",
+  "author": "BioDockify AI Team",
+  "license": "MIT",
+  "keywords": [
+    "fal-ai",
+    "image-generation",
+    "blog",
+    "bio-docking",
+    "molecular",
+    "api",
+    "automated",
+    "seo",
+    "marketing",
+    "pharma"
+  ],
+  "main": "index.mjs",
+  "tools": [],
+  "capabilities": ["network", "file-write", "api-call"],
+  "openclaw": ">=2024.2.9",
+  "categories": ["image-generation", "blog", "automation"]
+}

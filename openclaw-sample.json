@@ -1,0 +1,5 @@
+{
+  "version": "1.0",
+  "skills": ["agent-pulse", "antfarm-workflows"],
+  "note": "Copy your actual openclaw.json from old VPS after migration"
+}
