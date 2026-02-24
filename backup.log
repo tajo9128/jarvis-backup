@@ -6,3 +6,63 @@ Backing up memory...
 Backing up skills...
 ✓ Skills backed up
 Checking for changes...
+Committing changes...
+[main 160c76d] Backup: 2026-02-24_16-11-42
+ 43 files changed, 7981 insertions(+)
+ create mode 100644 backup.log
+ create mode 100755 backup.sh
+ create mode 100644 memory/2026-02-24.md
+ create mode 100755 memory/memory-cli.sh
+ create mode 100644 skills/SKILL.md
+ create mode 100644 skills/safe-exec/.clawhub/origin.json
+ create mode 100644 skills/safe-exec/CHANGELOG.md
+ create mode 100644 skills/safe-exec/IMPACT_ASSESSMENT.md
+ create mode 100644 skills/safe-exec/PROJECT_STRUCTURE.md
+ create mode 100644 skills/safe-exec/README-detail.md
+ create mode 100644 skills/safe-exec/README.md
+ create mode 100644 skills/safe-exec/README_EN.md
+ create mode 100644 skills/safe-exec/RELEASE_v0.3.2.md
+ create mode 100644 skills/safe-exec/SKILL.md
+ create mode 100644 skills/safe-exec/UNIFIED_MONITOR.md
+ create mode 100644 skills/safe-exec/UPDATE_NOTES.md
+ create mode 100644 skills/safe-exec/_meta.json
+ create mode 100644 skills/safe-exec/docs/BLOG.md
+ create mode 100644 skills/safe-exec/docs/BLOG_EN.md
+ create mode 100644 skills/safe-exec/docs/CONTRIBUTING.md
+ create mode 100644 skills/safe-exec/docs/FIX_REPORT_v0.1.3.md
+ create mode 100644 skills/safe-exec/docs/FIX_REPORT_v0.2.3.md
+ create mode 100644 skills/safe-exec/docs/GITHUB_ISSUE_MONITOR.md
+ create mode 100644 skills/safe-exec/docs/GITHUB_RELEASE_v0.2.0.md
+ create mode 100644 skills/safe-exec/docs/GLOBAL_SWITCH_GUIDE.md
+ create mode 100644 skills/safe-exec/docs/PROJECT_REPORT.md
+ create mode 100644 skills/safe-exec/docs/PUBLISHING_GUIDE.md
+ create mode 100644 skills/safe-exec/docs/RELEASE_NOTES.md
+ create mode 100644 skills/safe-exec/docs/RELEASE_v0.2.0.md
+ create mode 100644 skills/safe-exec/docs/RELEASE_v0.2.4.md
+ create mode 100644 skills/safe-exec/docs/USAGE.md
+ create mode 100644 skills/safe-exec/scripts/safe-exec-ai-wrapper.sh
+ create mode 100644 skills/safe-exec/scripts/safe-exec-approve.sh
+ create mode 100644 skills/safe-exec/scripts/safe-exec-list.sh
+ create mode 100644 skills/safe-exec/scripts/safe-exec-reject.sh
+ create mode 100644 skills/safe-exec/scripts/safe-exec.sh
+ create mode 100644 skills/safe-exec/tests/test.sh
+ create mode 100644 skills/safe-exec/tools/publish-to-github.sh
+ create mode 100644 skills/safe-exec/tools/push-to-github.sh
+ create mode 100644 skills/safe-exec/tools/release.sh
+ create mode 100644 skills/shell-scripting/.clawhub/origin.json
+ create mode 100644 skills/shell-scripting/SKILL.md
+ create mode 100644 skills/shell-scripting/_meta.json
+Pushing to GitHub...
+To https://github.com/tajo9128/jarvis-backup.git
+   ef60899..160c76d  main -> main
+✓ Backup completed successfully
+Backup completed at Tue Feb 24 16:11:43 CET 2026
+========================================
+========================================
+Jarvis Backup: 2026-02-24_16-12-41
+========================================
+Backing up memory...
+✓ Memory backed up
+Backing up skills...
+✓ Skills backed up
+Checking for changes...
